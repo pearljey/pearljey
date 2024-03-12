@@ -1,6 +1,6 @@
 - 👋 Hi, you can call me Pearljeyy
 - 👀 I’m here to learn more about custom rom building
-- 🌱 I’m currently building Lineage 21 for Judyln...
+- 🌱 I’m currently building Lineage 21 and Project Matrixx for Judyln...
 - 💞️ My main device: LG G7 ThinQ
 - 😄 Im a noob lol, dont ask me technical questions
 - ⚡ Telegram group: https://t.me/emhub
