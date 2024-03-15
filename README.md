@@ -1,5 +1,8 @@
-- 👋 Hi, you can call me Pearljeyy                                ![output](https://github.com/pearljey/pearljey/assets/157608972/30530f24-ce9a-4101-9cae-2bdbdcee2181)
 
+
+
+![output](https://github.com/pearljey/pearljey/assets/157608972/30530f24-ce9a-4101-9cae-2bdbdcee2181)
+- 👋 Hi, you can call me Pearljeyy 
 - 👀 I’m here to learn more about custom rom building
 - 🌱 I’m currently building Lineage 21 and Project Matrixx for Judyln...
 - 💞️ My main device: LG G7 ThinQ
